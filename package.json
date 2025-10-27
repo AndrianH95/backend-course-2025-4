@@ -1,0 +1,21 @@
+{
+  "name": "backend-course-2025-4",
+  "version": "1.0.0",
+  "description": "Лабораторна робота №4 - HTTP сервер для обробки house-price.json",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js -i house-price.json -h 0.0.0.0 -p 3000",
+    "dev": "nodemon main.js -i house-price.json -h 0.0.0.0 -p 3000"
+  },
+  "dependencies": {
+    "commander": "^11.1.0",
+    "fast-xml-parser": "^4.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": ["http", "server", "nodejs", "xml", "json"],
+  "author": "AndrianH95 bc2025-4",
+  "license": "ISC"
+}

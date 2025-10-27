@@ -1,0 +1,32 @@
+[
+  {
+    "price":"13300000",
+    "area":"7420",
+    "bedrooms":"4",
+    "bathrooms":"2",
+    "stories":"3",
+    "mainroad":"yes",
+    "guestroom":"no",
+    "basement":"no",
+    "hotwaterheating":"no",
+    "airconditioning":"yes",
+    "parking":"2",
+    "prefarea":"yes",
+    "furnishingstatus":"furnished"
+  },
+  {
+    "price":"12250000",
+    "area":"8960",
+    "bedrooms":"4",
+    "bathrooms":"4",
+    "stories":"4",
+    "mainroad":"yes",
+    "guestroom":"no",
+    "basement":"no",
+    "hotwaterheating":"no",
+    "airconditioning":"yes",
+    "parking":"3",
+    "prefarea":"no",
+    "furnishingstatus":"furnished"
+  }
+]
